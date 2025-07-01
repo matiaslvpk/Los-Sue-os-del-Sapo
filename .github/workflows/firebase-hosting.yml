@@ -30,4 +30,3 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
           channelId: live
           projectId: los-suenios-del-sapo-aa552 # ¡REEMPLAZA ESTO!
-          # target: TU_TARGET_DE_HOSTING # BORRA esta línea si solo tienes un sitio de hosting
